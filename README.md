@@ -1,8 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Planning
 
-## Available Scripts
+### Bronze (MVP)
 
-In the project directory, you can run:
+The user will be able to input two NFL players, which, pulling data from an API, 
+will advise the user which player to start in fantasy football.
 
 ### `npm start`
 
